@@ -1,1 +1,1 @@
-The aim of this course to learn Python.
+# The aim of this course to learn Python.
