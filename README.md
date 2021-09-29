@@ -1,3 +1,3 @@
-# Cosmology with Python: From Beginner to Advanced
+# A Course on Cosmology with Python: From Beginner to Advanced by Darshan Kumar
 
 
