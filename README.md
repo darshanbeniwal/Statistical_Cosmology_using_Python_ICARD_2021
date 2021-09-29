@@ -1,1 +1,3 @@
-# Cosmology with Python: From Beginner to Advanced `#1589F0`
+```diff
+# Cosmology with Python: From Beginner to Advanced in red
+```
