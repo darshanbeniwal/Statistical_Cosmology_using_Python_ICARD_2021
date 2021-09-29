@@ -1,1 +1,1 @@
-# The aim of this course to learn Python.
+# Cosmology with Python: From Beginner to Advanced `#1589F0`
