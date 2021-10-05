@@ -1,3 +1,3 @@
-# A Course on "Cosmology with Python: From Beginner to Advanced"
+# A Course on "Statistical Cosmology using Python: From Beginner to Advanced"
 
 
