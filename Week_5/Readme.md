@@ -1,2 +1,2 @@
-Recorded Session: YouTube Link [26.10.2021]
+Recorded Session: [YouTube Link](https://youtu.be/W1NBOEwcRvk) [26.10.2021]
 
